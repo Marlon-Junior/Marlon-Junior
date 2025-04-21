@@ -1,15 +1,12 @@
-# Semana 1
+# Minha Jornada na Programação
 
-## Desafio realizado:
-- Calculadora de quando o usuário fará 100 anos
+Este repositório é onde estou registrando meu aprendizado semana a semana enquanto evoluo como programador.
 
-## Aprendizados:
-- Uso de `input()` e `print()`
-- Conversão de tipos (`str` para `int`)
-- Uso do módulo `datetime`
-- Condições com `if`, `elif`, `else`
-- Tratamento de erros com `try/except`
+## Objetivo:
+Ir do nível iniciante até avançado, com prática constante, desafios e evolução real.
 
-## Próximos passos:
-- Praticar mais `if/else`
-- Entender melhor estruturas de repetição
+## Estrutura:
+- 📁 `semana-1/`: primeiros desafios e aprendizados
+- 📁 `semana-2/`: será preenchido em breve...
+
+Me acompanhe ou contribua se quiser!
