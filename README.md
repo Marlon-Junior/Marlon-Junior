@@ -1,12 +1,24 @@
 # Minha Jornada na Programação
 
-Este repositório é onde estou registrando meu aprendizado semana a semana enquanto evoluo como programador.
+Bem-vindo(a) ao meu repositório de estudos!  
+Aqui estou documentando minha evolução semanal no mundo da programação, desde os primeiros passos até um nível avançado.
 
-## Objetivo:
-Ir do nível iniciante até avançado, com prática constante, desafios e evolução real.
+## Objetivo
 
-## Estrutura:
-- 📁 `semana-1/`: primeiros desafios e aprendizados
-- 📁 `semana-2/`: será preenchido em breve...
+Aprender programação de forma sólida e prática, com foco em:
+- Consolidação dos fundamentos;
+- Resolução de desafios reais;
+- Criação de projetos próprios;
+- Evolução consistente semana a semana.
 
-Me acompanhe ou contribua se quiser!
+## Estrutura do Repositório
+
+- 📁 `semana-1/` — Primeiros desafios com Python: entradas, condicionais, validações e cálculo de IMC
+- 📁 `semana-2/` — Laços de repetição, listas, prática com `for`, `while` e novos exercícios
+
+## Como acompanhar
+
+Sinta-se à vontade para acompanhar minha jornada, deixar sugestões ou contribuir com ideias!  
+Toda ajuda e troca são bem-vindas.
+
+---
